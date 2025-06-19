@@ -5,7 +5,7 @@ a = Analysis(
     ['src\\sophia.py'],
     pathex=[],
     binaries=[],
-    datas=[('C:\\Users\\USER\\work\\python25\\rpa\\sophia_capture\\.venv\\Lib\\site-packages\\PySide6\\plugins/platforms', 'platforms')],
+    datas=[('C:\\Users\\PC\\work\\sophia-capture\\.venv\\Lib\\site-packages\\PySide6\\plugins/platforms', 'platforms')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
@@ -35,5 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['C:\\Users\\USER\\work\\python25\\rpa\\sophia_capture\\src\\sophia_capture.ico'],
+    icon=['C:\\Users\\PC\\work\\sophia-capture\\src\\sophia_capture.ico'],
 )

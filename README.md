@@ -2,10 +2,18 @@
 
 ## 개요
 
-- RPA 프로젝트를 위한 유틸리티
+- [kavana](https://github.com/KimDoYoung/kavana)(RPA용 Script) 프로젝트를 위한 유틸리티
+- kavana script에서 사용할 이미지 또는 region, point등을 구하기 위한 GUI 프로그램
 - 이미지에서 region이나 rectangle을 구함
 - 이미지에서 영역을 선택해서 이미지를 잘라내어 저장함.
 - zoonin(확대)을 해서 영역을 잘라냄, 원래의 이미지 크기로 잘라냄
+
+## 설치
+
+```bash
+make.sh
+```
+- dist 폴더에 sophia.exe가 만들어짐.
 
 ## History
 

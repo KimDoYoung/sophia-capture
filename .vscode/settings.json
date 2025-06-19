@@ -1,5 +1,5 @@
 {
-    "python.defaultInterpreterPath": "${workspaceFolder}/venv/bin/python",
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python",
     "editor.formatOnSave": true,
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true,
@@ -8,5 +8,4 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.markdownlint": "explicit"
     }
-
 }
