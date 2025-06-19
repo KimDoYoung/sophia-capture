@@ -104,6 +104,7 @@ File
 ### 추가요구사항 6차
 
 - 상단의 툴바에 3개의 버튼을 추가
+
     1.mark : 클릭시 mark-on = not makr-on으로 mark-on일때 마우스 클릭하는 곳마다. +를 표시 빨간색으로
     2.mark-clear : 클릭시 화면에 표시된 +를 모두 지움.
     3.cross-cursor : on일때 커서가 움직일때마다 horizontal line과 vertical line으로
@@ -112,11 +113,11 @@ File
 
 ## History
 
-0.2 : 2025-04-16 한글이미지 파일명 저장 안되는 것 수정, Action 메뉴추가
-0.3 : kavana code 스타일로 point, region등 출력
-0.4 : PySide6로 변경함.
-0.5 : scale버그 수정, F4: set save folder 메뉴추가
-0.6 : next image, prev image 버튼 생성, info에 file full path 넣기.
-0.7 : next,prev image변경시 save_folder 유지, F9 : save_folder 탐색기에서 열기
-0.8 : zoom in추가, 사용자 region그리기
-0.9 : image자를때 region도 표시, w,h < 10pixel이하는 무시함.
+- 0.2 : 2025-04-16 한글이미지 파일명 저장 안되는 것 수정, Action 메뉴추가
+- 0.3 : kavana code 스타일로 point, region등 출력
+- 0.4 : PySide6로 변경함.
+- 0.5 : scale버그 수정, F4: set save folder 메뉴추가
+- 0.6 : next image, prev image 버튼 생성, info에 file full path 넣기.
+- 0.7 : next,prev image변경시 save_folder 유지, F9 : save_folder 탐색기에서 열기
+- 0.8 : zoom in추가, 사용자 region그리기
+- 0.9 : image자를때 region도 표시, w,h < 10pixel이하는 무시함.
