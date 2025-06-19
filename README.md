@@ -1,4 +1,4 @@
-# sophia_capture
+# sophia-capture
 
 ## 개요
 
